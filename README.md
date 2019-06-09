@@ -1,4 +1,5 @@
-<img alt="OCEAN_AREA" align="right" src="http://www.fiduceo.eu/sites/default/files/FIDUCEO-logo.png">
+![image](https://user-images.githubusercontent.com/5902974/59154328-fe0c6300-8a67-11e9-9261-4d79fcf8ee94.png)
+<img alt="OCEAN_AREA" align="right" src="https://user-images.githubusercontent.com/5902974/59154328-fe0c6300-8a67-11e9-9261-4d79fcf8ee94.png">
                 
 # OCEAN_AREA
 
