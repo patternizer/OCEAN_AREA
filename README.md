@@ -29,9 +29,9 @@ Run with:
 
     $ python ocean_area.py
         
-### Landsea_mask.nc
+### Landsea_mask.nc  
 
-To run, you will need a CF-compliant land-sea mask in netCDF-4 format (`landsea_mask.nc`). For example, To generate the plot I used the NAVOCEANO_landmask_v1.0 EUMETSAT_OSI-SAF_icemask ARCLake_lakemask which isan OSTIA L4 product from the ESA SST CCI project produced using OSTIA reanalysis sytem v3.0 and is at 0.05 degree resolution.
+To run, you will need a CF-compliant land-sea mask in netCDF-4 format (`landsea_mask.nc`). For example, to generate the plot I used the NAVOCEANO_landmask_v1.0 EUMETSAT_OSI-SAF_icemask ARCLake_lakemask which is an OSTIA L4 product from the ESA SST_CCI project produced using OSTIA reanalysis sytem v3.0 and is at 0.05 degree resolution.
 
 ## License
 
@@ -39,4 +39,4 @@ The code is distributed under terms and conditions of the [MIT license](https://
 
 ## Contact information
 
-* [Michael Taylor](https://patternizer.github.io/)
+* [Michael Taylor](https://patternizer.github.io/
